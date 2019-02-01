@@ -1,0 +1,90 @@
+body {
+    background: #fcfeff;
+    font-family: "Montserrat", sans-serif;
+    padding: 20px 30px;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  .container {
+    width: 100%;
+  
+    border: 5px solid#633737;
+    border-style: solid;
+    border-left-style: inset;
+    border-left-color: #6d3333;
+    border-left-width: 100px;
+  }
+  h1{
+    background-color: #3a2828;
+    color: #fcfeff;
+    border-color: coral;
+  border-width: 7px;
+  }
+    
+  button {
+    background: #3a2828;
+    padding: 5px 10px;
+    color: white;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  }
+  
+ button:focus {
+    outline: none;
+  }
+  
+  button:hover {
+    color: coral;
+  }
+  
+  #link {
+    cursor: pointer;
+  }
+  #add-stock{
+    background: #3a2828;
+    padding: 5px 10px;
+    color: white;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  #add-stock:focus {
+    outline: none;
+  }
+  
+  #add-stock:hover {
+    color: coral;
+  }
+  
+  #link {
+    cursor: pointer;
+  }
+#buttons-view{
+  box-decoration-break: inherit;
+  border-bottom: 2px;
+} 
+#stock{
+float: right;
+margin: 10px;
+}
+ input{
+    
+    float: right;
+    
+  }
+
+  #IexTstocks-view{
+    display: block;
+  }
+  div{
+    display: block; 
+  }
+  #stock-trade-input{
+    color: #3a2828;
+  }
