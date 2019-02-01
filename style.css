@@ -20,7 +20,10 @@ body {
     border-color: coral;
   border-width: 7px;
   }
-    
+  
+  .display-logo{ 
+    max-width: 100%;
+}
   button {
     background: #3a2828;
     padding: 5px 10px;
