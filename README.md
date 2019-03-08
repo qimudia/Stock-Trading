@@ -17,4 +17,10 @@ If a user enters an invalid stock, it will alert "Stock symbol does not exist"
 #Responsiveness
 The app is fully mobile responsive.
 
+#LINKS
+https://qimudia.github.io/Stock-Trading
+https://qimudia.github.io/Stock-Trading/iexTrading.html
+
+
+
 
